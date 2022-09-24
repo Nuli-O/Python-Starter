@@ -1,2 +1,3 @@
 //This is a test document
 //Testing...
+//Testing git merge
